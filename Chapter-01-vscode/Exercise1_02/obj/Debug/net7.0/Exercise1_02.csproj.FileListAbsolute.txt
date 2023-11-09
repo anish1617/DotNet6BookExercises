@@ -1,0 +1,14 @@
+D:\Code\Chapter-01-vscode\Exercise1_02\bin\Debug\net7.0\Exercise1_02.exe
+D:\Code\Chapter-01-vscode\Exercise1_02\bin\Debug\net7.0\Exercise1_02.deps.json
+D:\Code\Chapter-01-vscode\Exercise1_02\bin\Debug\net7.0\Exercise1_02.runtimeconfig.json
+D:\Code\Chapter-01-vscode\Exercise1_02\bin\Debug\net7.0\Exercise1_02.dll
+D:\Code\Chapter-01-vscode\Exercise1_02\bin\Debug\net7.0\Exercise1_02.pdb
+D:\Code\Chapter-01-vscode\Exercise1_02\obj\Debug\net7.0\Exercise1_02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Chapter-01-vscode\Exercise1_02\obj\Debug\net7.0\Exercise1_02.AssemblyInfoInputs.cache
+D:\Code\Chapter-01-vscode\Exercise1_02\obj\Debug\net7.0\Exercise1_02.AssemblyInfo.cs
+D:\Code\Chapter-01-vscode\Exercise1_02\obj\Debug\net7.0\Exercise1_02.csproj.CoreCompileInputs.cache
+D:\Code\Chapter-01-vscode\Exercise1_02\obj\Debug\net7.0\Exercise1_02.dll
+D:\Code\Chapter-01-vscode\Exercise1_02\obj\Debug\net7.0\refint\Exercise1_02.dll
+D:\Code\Chapter-01-vscode\Exercise1_02\obj\Debug\net7.0\Exercise1_02.pdb
+D:\Code\Chapter-01-vscode\Exercise1_02\obj\Debug\net7.0\Exercise1_02.genruntimeconfig.cache
+D:\Code\Chapter-01-vscode\Exercise1_02\obj\Debug\net7.0\ref\Exercise1_02.dll

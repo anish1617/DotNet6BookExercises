@@ -1,0 +1,11 @@
+D:\Code\Chapter-04-vscode\Calculator\bin\Debug\net7.0\Calculator.deps.json
+D:\Code\Chapter-04-vscode\Calculator\bin\Debug\net7.0\Calculator.dll
+D:\Code\Chapter-04-vscode\Calculator\bin\Debug\net7.0\Calculator.pdb
+D:\Code\Chapter-04-vscode\Calculator\obj\Debug\net7.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Chapter-04-vscode\Calculator\obj\Debug\net7.0\Calculator.AssemblyInfoInputs.cache
+D:\Code\Chapter-04-vscode\Calculator\obj\Debug\net7.0\Calculator.AssemblyInfo.cs
+D:\Code\Chapter-04-vscode\Calculator\obj\Debug\net7.0\Calculator.csproj.CoreCompileInputs.cache
+D:\Code\Chapter-04-vscode\Calculator\obj\Debug\net7.0\Calculator.dll
+D:\Code\Chapter-04-vscode\Calculator\obj\Debug\net7.0\refint\Calculator.dll
+D:\Code\Chapter-04-vscode\Calculator\obj\Debug\net7.0\Calculator.pdb
+D:\Code\Chapter-04-vscode\Calculator\obj\Debug\net7.0\ref\Calculator.dll

@@ -1,0 +1,14 @@
+D:\Code\Chapter-08\WorkingWithDateAndTime\obj\Debug\net7.0\WorkingWithDateAndTime.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Chapter-08\WorkingWithDateAndTime\obj\Debug\net7.0\WorkingWithDateAndTime.AssemblyInfoInputs.cache
+D:\Code\Chapter-08\WorkingWithDateAndTime\obj\Debug\net7.0\WorkingWithDateAndTime.AssemblyInfo.cs
+D:\Code\Chapter-08\WorkingWithDateAndTime\obj\Debug\net7.0\WorkingWithDateAndTime.csproj.CoreCompileInputs.cache
+D:\Code\Chapter-08\WorkingWithDateAndTime\bin\Debug\net7.0\WorkingWithDateAndTime.exe
+D:\Code\Chapter-08\WorkingWithDateAndTime\bin\Debug\net7.0\WorkingWithDateAndTime.deps.json
+D:\Code\Chapter-08\WorkingWithDateAndTime\bin\Debug\net7.0\WorkingWithDateAndTime.runtimeconfig.json
+D:\Code\Chapter-08\WorkingWithDateAndTime\bin\Debug\net7.0\WorkingWithDateAndTime.dll
+D:\Code\Chapter-08\WorkingWithDateAndTime\bin\Debug\net7.0\WorkingWithDateAndTime.pdb
+D:\Code\Chapter-08\WorkingWithDateAndTime\obj\Debug\net7.0\WorkingWithDateAndTime.dll
+D:\Code\Chapter-08\WorkingWithDateAndTime\obj\Debug\net7.0\refint\WorkingWithDateAndTime.dll
+D:\Code\Chapter-08\WorkingWithDateAndTime\obj\Debug\net7.0\WorkingWithDateAndTime.pdb
+D:\Code\Chapter-08\WorkingWithDateAndTime\obj\Debug\net7.0\WorkingWithDateAndTime.genruntimeconfig.cache
+D:\Code\Chapter-08\WorkingWithDateAndTime\obj\Debug\net7.0\ref\WorkingWithDateAndTime.dll

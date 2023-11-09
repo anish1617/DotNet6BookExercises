@@ -1,0 +1,14 @@
+D:\Code\Chapter-02-vscode\Exercise1_04_SOLID\obj\Debug\net7.0\Exercise1_04_SOLID.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Chapter-02-vscode\Exercise1_04_SOLID\obj\Debug\net7.0\Exercise1_04_SOLID.AssemblyInfoInputs.cache
+D:\Code\Chapter-02-vscode\Exercise1_04_SOLID\obj\Debug\net7.0\Exercise1_04_SOLID.AssemblyInfo.cs
+D:\Code\Chapter-02-vscode\Exercise1_04_SOLID\obj\Debug\net7.0\Exercise1_04_SOLID.csproj.CoreCompileInputs.cache
+D:\Code\Chapter-02-vscode\Exercise1_04_SOLID\bin\Debug\net7.0\Exercise1_04_SOLID.exe
+D:\Code\Chapter-02-vscode\Exercise1_04_SOLID\bin\Debug\net7.0\Exercise1_04_SOLID.deps.json
+D:\Code\Chapter-02-vscode\Exercise1_04_SOLID\bin\Debug\net7.0\Exercise1_04_SOLID.runtimeconfig.json
+D:\Code\Chapter-02-vscode\Exercise1_04_SOLID\bin\Debug\net7.0\Exercise1_04_SOLID.dll
+D:\Code\Chapter-02-vscode\Exercise1_04_SOLID\bin\Debug\net7.0\Exercise1_04_SOLID.pdb
+D:\Code\Chapter-02-vscode\Exercise1_04_SOLID\obj\Debug\net7.0\Exercise1_04_SOLID.dll
+D:\Code\Chapter-02-vscode\Exercise1_04_SOLID\obj\Debug\net7.0\refint\Exercise1_04_SOLID.dll
+D:\Code\Chapter-02-vscode\Exercise1_04_SOLID\obj\Debug\net7.0\Exercise1_04_SOLID.pdb
+D:\Code\Chapter-02-vscode\Exercise1_04_SOLID\obj\Debug\net7.0\Exercise1_04_SOLID.genruntimeconfig.cache
+D:\Code\Chapter-02-vscode\Exercise1_04_SOLID\obj\Debug\net7.0\ref\Exercise1_04_SOLID.dll

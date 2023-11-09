@@ -1,0 +1,14 @@
+D:\Code\Chapter-02-vscode\Exercise1_03_Extension\bin\Debug\net7.0\Exercise1_03_Extension.exe
+D:\Code\Chapter-02-vscode\Exercise1_03_Extension\bin\Debug\net7.0\Exercise1_03_Extension.deps.json
+D:\Code\Chapter-02-vscode\Exercise1_03_Extension\bin\Debug\net7.0\Exercise1_03_Extension.runtimeconfig.json
+D:\Code\Chapter-02-vscode\Exercise1_03_Extension\bin\Debug\net7.0\Exercise1_03_Extension.dll
+D:\Code\Chapter-02-vscode\Exercise1_03_Extension\bin\Debug\net7.0\Exercise1_03_Extension.pdb
+D:\Code\Chapter-02-vscode\Exercise1_03_Extension\obj\Debug\net7.0\Exercise1_03_Extension.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Chapter-02-vscode\Exercise1_03_Extension\obj\Debug\net7.0\Exercise1_03_Extension.AssemblyInfoInputs.cache
+D:\Code\Chapter-02-vscode\Exercise1_03_Extension\obj\Debug\net7.0\Exercise1_03_Extension.AssemblyInfo.cs
+D:\Code\Chapter-02-vscode\Exercise1_03_Extension\obj\Debug\net7.0\Exercise1_03_Extension.csproj.CoreCompileInputs.cache
+D:\Code\Chapter-02-vscode\Exercise1_03_Extension\obj\Debug\net7.0\Exercise1_03_Extension.dll
+D:\Code\Chapter-02-vscode\Exercise1_03_Extension\obj\Debug\net7.0\refint\Exercise1_03_Extension.dll
+D:\Code\Chapter-02-vscode\Exercise1_03_Extension\obj\Debug\net7.0\Exercise1_03_Extension.pdb
+D:\Code\Chapter-02-vscode\Exercise1_03_Extension\obj\Debug\net7.0\Exercise1_03_Extension.genruntimeconfig.cache
+D:\Code\Chapter-02-vscode\Exercise1_03_Extension\obj\Debug\net7.0\ref\Exercise1_03_Extension.dll

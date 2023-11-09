@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "yFBEibt4llzKfpn+vbm5u7xM7J4PjofQVh5TKlzZWiNjoP9IZMC8ciUz2WqBPP+bhhjLhvGX5y5sLujBtykbtw==",
+  "success": true,
+  "projectFilePath": "D:\\Code\\Chapter-05\\PacktLibrary\\PacktLibrary\\PacktLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mangobyte-LTP-10\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\Mangobyte-LTP-10\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net40\\1.0.3\\microsoft.netframework.referenceassemblies.net40.1.0.3.nupkg.sha512",
+    "C:\\Users\\Mangobyte-LTP-10\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
